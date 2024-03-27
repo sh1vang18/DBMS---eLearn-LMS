@@ -1,7 +1,9 @@
 **eLearning System**
+
 This repository contains a sample implementation of an eLearning system using Java. The system allows users to register, login, enroll in courses, access course materials, and interact with instructors and administrators.
 
 **Features**
+
 User Registration: Users can register with the system by providing basic information such as username, password, email, first name, and last name.
 User Login: Registered users can log in to access their accounts.
 Role-Based Access: The system supports different roles such as student, teacher, administrator, and employee, each with specific functionalities and access levels.
